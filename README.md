@@ -7,7 +7,7 @@
     </a>
 </div>
 
-- 👨‍💻 Explore my projects at [https://mrrostam.github.io/](https://mrrostam.github.io/)
+👨‍💻 Explore my projects at [https://mrrostam.github.io](https://mrrostam.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
