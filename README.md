@@ -1,5 +1,4 @@
 <h1 align="center">👋 Welcome, I'm Reza (Pouya)</h1>
-<h3 align="center">Passionately Exploring the Boundaries of Deep Learning</h3>
 
 <div align="center">
     <a href="https://github.com/mrrostam">
